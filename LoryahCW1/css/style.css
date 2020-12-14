@@ -1,0 +1,99 @@
+html{
+  background-color: black;
+  border: 6px gold solid;
+}
+
+header {
+  background-color: black;
+  border: 3px blue solid; border-collapse: separate: 25px;
+  padding: 10px;
+  color: gold;
+  text-decoration: underline; color: blue
+  font-size: 16pt;
+  text-align: center;
+  font-family: monospace;
+}
+
+a {
+  font-family: monospace;
+  color: white;
+}
+
+section h2{
+  background-color: black;
+  border: 3px blue solid;
+  padding: 10px;
+  color: gold;
+  font-family: monospace;
+text-align: center;
+font-size: 18pt;
+}
+
+h3 {
+  border: 3px blue solid;
+  background-color: black;
+  padding: 10px;
+  color: gold;
+  font-family: monospace;
+  font-size: 18pt;
+  text-align: center;
+}
+
+ section p{
+  color: lightblue;
+  border: 3px blue solid;
+  text-align: center;
+  font-size: 17pt;
+font-weight: bold;
+}
+
+section h4{
+  color: gold;
+  border: 3px blue solid;
+  text-align: center;
+  font-size: 18pt;
+  padding: 20px;
+  font-family: monospace;
+}
+
+p {
+  background-color: black;
+  border: 3px blue solid;
+  padding: 10px;
+  color: lightblue;
+  font-family: system-ui;
+  font-size: 11pt;
+}
+
+video {
+  border: 3px blue solid;
+  padding: 10px;
+  display: block;
+  margin: auto;
+}
+
+footer{
+  color: white;
+}
+
+img{
+display: block;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+float: left;
+}
+
+h5{
+  background-color: black;
+  border: 3px blue solid;
+  padding: 10px;
+  color: gold;
+  font-family: monospace;
+text-align: center;
+font-size: 18pt;
+}
+
+audio{
+   margin-top: inherit;
+}
