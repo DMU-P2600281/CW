@@ -1,6 +1,7 @@
 html{
   background-color: black;
   border: 6px gold solid;
+  /The colours I have chosen match the original Black Panther logo that I saw/
 }
 
 header {
@@ -17,6 +18,7 @@ header {
 a {
   font-family: monospace;
   color: white;
+  font-size: 18pt;
 }
 
 section h2{
@@ -97,3 +99,4 @@ font-size: 18pt;
 audio{
    margin-top: inherit;
 }
+
