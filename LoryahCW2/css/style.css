@@ -1,0 +1,112 @@
+html{
+  background-color: lightpink;
+  border: 6px purple solid;
+  /The colours I have chosen match the original Black Panther logo that I saw/
+}
+
+header {
+  background-color: lightpink;
+  border: 3px hotpink solid; border-collapse: separate: 25px;
+  padding: 10px;
+  color: hotpink;
+  text-decoration: underline; color: pink
+  font-size: 16pt;
+  text-align: center;
+  font-family: fantasy;
+}
+
+a {
+  font-family: fantasy;
+  padding: inherit;
+  color: white;
+  font-size: 18pt;
+}
+
+section h2{
+  background-color: lightpink;
+  border: 3px hotpink solid;
+  padding: 10px;
+  color: hotpink;
+  font-family: fantasy;
+text-align: center;
+font-size: 18pt;
+}
+
+h2{
+  background-color: lightpink;
+  border: 3px hotpink solid;
+  padding: 10px;
+  color: hotpink;
+  font-family: fantasy;
+text-align: center;
+font-size: 18pt;
+}
+
+h3 {
+  border: 3px hotpink solid;
+  background-color: lightpink;
+  padding: 10px;
+  color: hotpink;
+  font-family: fantasy;
+  font-size: 18pt;
+  text-align: center;
+}
+
+ section p{
+  color: hotpink;
+  text-align: center;
+  font-size: 17pt;
+font-weight: bold;
+}
+
+h4{
+  color: hotpink;
+  border: 3px hotpink solid;
+  text-align: center;
+  font-size: 18pt;
+  padding: 20px;
+  font-family: fantasy;
+}
+
+p {
+  background-color: lightpink;
+  padding: 10px;
+  color: hotpink;
+  font-family: system-ui;
+  font-size: 11pt;
+}
+
+video {
+  border: 3px blue solid;
+  padding: 10px;
+  display: block;
+  margin: auto;
+}
+
+footer{
+  color: purple;
+}
+
+img{
+display: block;
+margin: auto;
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px;
+float: center;
+}
+
+h5{
+  background-color: lightpink;
+  border: 3px hotpink solid;
+  padding: 10px;
+  color: hotpink;
+  font-family: fantasy;
+text-align: center;
+font-size: 18pt;
+}
+
+
+audio{
+   margin-top: inherit;
+}
